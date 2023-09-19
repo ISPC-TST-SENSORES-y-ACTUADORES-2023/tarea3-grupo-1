@@ -12,4 +12,4 @@
   
 ## Link de la simulacion  
   
-https://wokwi.com/projects/375255138302301185
+https://wokwi.com/projects/375424591768216577
